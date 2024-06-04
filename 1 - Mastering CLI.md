@@ -24,4 +24,6 @@ Here's a quick rundown of what we did:
 Get ready for loads of fun challenges and chances to level up your frontend skills.
 This is just the beginning, and we're already stoked by your progress!
 Keep it up, and let's make the next session even more awesome! 👨‍💻👩‍💻
+
+These are the files we used for today:
 ```

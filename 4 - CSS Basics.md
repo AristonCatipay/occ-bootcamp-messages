@@ -26,4 +26,6 @@ Let's delve into the highlights of today's adventures:
 
 Your dedication to mastering these fundamental concepts is truly remarkable!
 Keep the momentum soaring as we venture deeper into the realm of frontend excellence together! 💪💻 #CodeOn #FrontendFrenzy 🚀🎨
+
+These are the files we used for today:
 ```

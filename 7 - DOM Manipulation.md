@@ -24,4 +24,6 @@ Today, we tackled the following:
 
 Your dedication and enthusiasm continue to fuel our journey towards frontend excellence! Keep honing those skills and embracing every challenge that comes your way.
 Together, we're forging a path towards mastery!  💪💻 #CodeOn #FrontendFrenzy 🚀🌟
+
+These are the files we used for today:
 ```

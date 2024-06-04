@@ -27,4 +27,6 @@ Here's a sneak peek into what we accomplished today:
 
 You're crushing it, and we're loving the energy you're bringing to the table!
 Keep that momentum going, and let's continue this epic journey together! 💪💻 #CodeOn #FrontendFrenzy 🚀✨
+
+These are the files we used for today:
 ```

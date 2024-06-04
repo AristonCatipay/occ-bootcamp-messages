@@ -25,4 +25,6 @@ Here's a glimpse of what we tackled:
 🎨 Intro to CSS (3 Ways to Use CSS)
 
 Your dedication is truly inspiring! Keep soaking up that knowledge and pushing boundaries! Let's keep the momentum rolling as we embark on this exhilarating journey together! 💪💻 #CodeOn #FrontendFrenzy 🚀🌟
+
+These are the files we used for today:
 ```

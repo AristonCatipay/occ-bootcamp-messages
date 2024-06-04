@@ -23,4 +23,6 @@ Here's a peek into our thrilling journey:
 ✨ Introduction to JavaScript
 
 Your relentless pursuit of knowledge is truly commendable! Keep harnessing that passion and drive as we forge ahead on this epic voyage of frontend excellence together! 💪💻 #CodeOn #FrontendFrenzy 🚀🌟
+
+These are the files we used for today:
 ```

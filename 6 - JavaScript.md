@@ -31,4 +31,6 @@ Here's a glimpse of what we conquered today:
 🔹 JS Arrays
 
 You've shown incredible dedication and passion throughout this journey, and today was no exception! Keep harnessing that inner fire as we continue to elevate our frontend skills together! Let's dive deeper into the realm of JavaScript wizardry and unlock even more exciting possibilities! 💫 💻 #CodeOn #FrontendFrenzy 🚀🌟
+
+These are the files we used for today:
 ```
