@@ -41,3 +41,26 @@ Your commitment to learning these skills is impressive! Let’s maintain this mo
 
 Instructions:
 ```
+
+```
+🚀 QuizHub Assignment Announcement! 🚀
+
+Hello Frontend Innovators! 🌟
+
+It's time to test your knowledge with a new quiz assignment on QuizHub! This task will help you reinforce everything you've learned in various topics. Please follow these steps to complete the quiz:
+
+1. 🌐 Go to the QuizHub website using the provided link.
+2. 📝 Answer all the quiz questions on the following topics:
+   - Mastering CLI
+   - Git and GitHub
+   - HTML
+   - CSS Basics
+   - CSS Intermediate
+   - JavaScript
+   - DOM Manipulation
+3. 🔄 You can retake the quizzes multiple times until you achieve the score you want.
+4. 📸 Capture a screenshot of your final score page once you've completed all the quizzes.
+5. 📁 Share the screenshot in our Slack channel.
+
+Your commitment to mastering these skills is impressive! Let’s keep up the momentum as we dive deeper into frontend development. 💪💻 #CodeOn #FrontendFrenzy 🚀🎨
+```
