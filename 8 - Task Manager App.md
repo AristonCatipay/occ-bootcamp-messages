@@ -25,3 +25,25 @@ So, take a moment to celebrate this achievement, but remember, this is just the 
 
 Congratulations, Frontend Graduates – go forth and continue to shine! 🚀🌟 #CodeOn #FrontendFrenzy 🎓✨
 ```
+
+```
+🚀🎓Congratulations on graduating from the Frontend Essentials Bootcamp!🎓🚀
+
+Your dedication and passion have brought you to this milestone.
+As you step into the world of frontend development, remember the skills you've gained and embrace the challenges ahead.
+
+To obtain your certificate for the completed course, please follow the link provided below:
+https://onecodecamp.org/coursedetail/Frontend_Fundamentals_Bootcamp_1711943376757
+
+For a detailed guide on how to request or apply for your certificate, refer to the step-by-step instructions provided in the document linked here:
+https://docs.google.com/document/d/144AlU1P89I57uNZ5pXrW9BISMOOF3JE-DYksL6COSgA/edit?usp=sharing
+
+Here is the overall list of most recently approved certificates:
+Student Name
+
+If you have any concerns or questions, please feel free to reach out to:
+@Gracelynel Roxas
+@Pristine Gayle Chua
+
+Wishing you success in your future endeavors! 🚀🌟 #CodeOn #FrontendFrenzy 🎓✨
+```
