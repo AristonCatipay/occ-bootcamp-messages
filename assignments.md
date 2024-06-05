@@ -9,6 +9,8 @@ Follow the instructions below to complete the task:
 📸 Take a screenshot of your finished page.
 📁 Upload the screenshot to our Slack channel.
 
+Sample Article: https://ron062394.github.io/HTML-Sample-Article/
+
 Your dedication to mastering these skills is truly commendable! Let's keep the momentum going as we dive deeper into the world of frontend development. 💪💻 #CodeOn #FrontendFrenzy 🚀🎨
 
 Instructions:
@@ -35,6 +37,7 @@ Please follow these steps to complete the assignment:
 📁 Share the screenshot in our Slack channel.
 
 Hint: You can hover over the HTML elements to see the CSS code.
+CodeCrafteres: https://ron062394.github.io/CodeCrafters-Sample-Website/
 HTML Template: https://github.com/ron062394/Bootcamp-Template/blob/main/Exercise%20Templates/CodeCrafters%20Sample%20Website/index.md
 
 Your commitment to learning these skills is impressive! Let’s maintain this momentum as we delve deeper into frontend development. 💪💻 #CodeOn #FrontendFrenzy 🚀🎨
