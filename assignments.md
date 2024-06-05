@@ -62,5 +62,16 @@ It's time to test your knowledge with a new quiz assignment on QuizHub! This tas
 4. 📸 Capture a screenshot of your final score page once you've completed all the quizzes.
 5. 📁 Share the screenshot in our Slack channel.
 
+QuizHub: https://ron062394.github.io/QuizHub/
+
+QuizCodes:
+- Mastering CLI: "CLI123",
+- Git & GitHub: "OCTOCAT",
+- HTML: "DOCTYPE",
+- CSS Basics: "CSS101",
+- Intermediate CSS: "RWD201",
+- JavaScript Basics: "JSLINGO",
+- DOM Manipulation: "JSDOM",
+
 Your commitment to mastering these skills is impressive! Let’s keep up the momentum as we dive deeper into frontend development. 💪💻 #CodeOn #FrontendFrenzy 🚀🎨
 ```
