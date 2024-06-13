@@ -19,10 +19,14 @@ Instructions:
 ```
 🎨 Intermediate CSS Exercises! 🎨
 
-Feel free to try out these websites to hammer down Grid and Flexbox Fundamentals!
+To further solidify your understanding of Grid and Flexbox fundamentals, we highly recommend trying out the following interactive websites.
+These exercises will cover additional topics we might not have discussed in class, and they are optional—feel free to tackle them in your own time.
 
+If you’d like, you can also share the highest level you managed to complete.
 🐸 https://flexboxfroggy.com/
 🥕 https://cssgridgarden.com/
+
+Learn these concepts while playing and have fun practicing and exploring these CSS challenges! :rainbow::sparkles:
 ```
 
 ```
@@ -50,8 +54,10 @@ Instructions:
 
 Hello Frontend Innovators! 🌟
 
-It's time to test your knowledge with a new quiz assignment on QuizHub! This task will help you reinforce everything you've learned in various topics. Please follow these steps to complete the quiz:
+It's time to test your knowledge with a new quiz assignment on QuizHub! 
+This task will help you reinforce everything you've learned in various topics. 
 
+Please follow these steps to complete the quiz:
 1. 🌐 Go to the QuizHub website using the provided link.
 2. 📝 Answer all the quiz questions on the following topics:
    - Mastering CLI
